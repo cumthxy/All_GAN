@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2071cfa-b8ed-46bf-8409-f06b80acf9db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GAN/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GAN/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/GAN/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588234308054</updated>
-      <workItem from="1588234329256" duration="4098000" />
+      <workItem from="1588234329256" duration="6710000" />
     </task>
     <servers />
   </component>
