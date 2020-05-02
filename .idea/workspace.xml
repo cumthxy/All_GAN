@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2071cfa-b8ed-46bf-8409-f06b80acf9db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DCGAN/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +30,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -71,7 +72,9 @@
       <option name="presentableId" value="Default" />
       <updated>1588234308054</updated>
       <workItem from="1588234329256" duration="10027000" />
-      <workItem from="1588392905164" duration="5894000" />
+      <workItem from="1588392905164" duration="6859000" />
+      <workItem from="1588402076020" duration="96000" />
+      <workItem from="1588402212934" duration="412000" />
     </task>
     <servers />
   </component>
@@ -79,6 +82,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2472" y="182" key="#Custom_Plugin_Repositories" timestamp="1588401568383">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="182" key="#Custom_Plugin_Repositories/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588401568383" />
+    <state x="2472" y="182" key="#HTTP_Proxy" timestamp="1588401584727">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="182" key="#HTTP_Proxy/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588401584727" />
     <state x="2660" y="278" key="FileChooserDialogImpl" timestamp="1588335657931">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -99,6 +110,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1858" height="314" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588397992512" />
+    <state x="2383" y="166" width="994" height="709" key="SettingsEditor" timestamp="1588402236873">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2383" y="166" width="994" height="709" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588402236873" />
     <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588393884782">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
