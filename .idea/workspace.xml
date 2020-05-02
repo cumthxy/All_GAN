@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2071cfa-b8ed-46bf-8409-f06b80acf9db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional GAN/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +33,29 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="All_GAN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Conditional GAN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Conditional GAN/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="All_GAN" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -57,6 +80,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
@@ -74,7 +98,7 @@
       <workItem from="1588234329256" duration="10027000" />
       <workItem from="1588392905164" duration="6859000" />
       <workItem from="1588402076020" duration="96000" />
-      <workItem from="1588402212934" duration="412000" />
+      <workItem from="1588402212934" duration="9551000" />
     </task>
     <servers />
   </component>
@@ -94,32 +118,42 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="278" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588335657931" />
-    <state width="1858" height="314" key="GridCell.Tab.0.bottom" timestamp="1588397992512">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1493" height="278" key="GridCell.Tab.0.bottom" timestamp="1588414235962">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="278" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1588414235962" />
     <state width="1858" height="314" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588397992512" />
-    <state width="1858" height="314" key="GridCell.Tab.0.center" timestamp="1588397992512">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1493" height="278" key="GridCell.Tab.0.center" timestamp="1588414235961">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="278" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1588414235961" />
     <state width="1858" height="314" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588397992512" />
-    <state width="1858" height="314" key="GridCell.Tab.0.left" timestamp="1588397992512">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1493" height="278" key="GridCell.Tab.0.left" timestamp="1588414235961">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="278" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1588414235961" />
     <state width="1858" height="314" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588397992512" />
-    <state width="1858" height="314" key="GridCell.Tab.0.right" timestamp="1588397992512">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1493" height="278" key="GridCell.Tab.0.right" timestamp="1588414235961">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="278" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1588414235961" />
     <state width="1858" height="314" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588397992512" />
     <state x="2383" y="166" width="994" height="709" key="SettingsEditor" timestamp="1588402236873">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2383" y="166" width="994" height="709" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588402236873" />
-    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588393884782">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="276" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588412923136">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="276" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1588412923136" />
+    <state x="498" y="178" width="672" height="538" key="search.everywhere.popup" timestamp="1588406896038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="178" width="672" height="538" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1588406896038" />
     <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588393884782" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/All_GAN$main.coverage" NAME="main Coverage Results" MODIFIED="1588397992496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DCGAN" />
+    <SUITE FILE_PATH="coverage/All_GAN$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1588414235951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conditional GAN" />
   </component>
 </project>

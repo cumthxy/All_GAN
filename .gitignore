@@ -1,3 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
 !/DCGAN/data/
 !/DCGAN/images/
+/Conditional GAN/data/
+/Conditional GAN/images/
